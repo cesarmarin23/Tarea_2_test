@@ -62,7 +62,6 @@ let producto1 = {
 //documento1.save(producto1);
 //documento1.getById(2);
 //documento1.getAll();
-//documento1.deleteById(2);
+//documento1.deleteById(2); ..
 //documento1.deleteAll()
-
 
